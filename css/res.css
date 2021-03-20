@@ -21,7 +21,7 @@
 
     #contents{margin: 0;width: 100%;}
 
-    #contents ul li:nth-child(1):hover .dark .border{bottom: 5%;}
+    #contents ul li:nth-child(1):hover .dark .border{bottom: 20%;}
     
 }
 
